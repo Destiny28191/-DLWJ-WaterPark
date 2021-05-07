@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DLWJ WaterPark</string>
+    <string name="ticket_checkout">Ticket Checkout</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="payment_mode">Payment Mode:</string>
+    <string name="book_now">Book Now!</string>
+    <string name="ticket_type">Ticket Type:</string>
+    <string name="visa">Visa</string>
+    <string name="mastercard">MasterCard</string>
+    <string name="nets">NETS</string>
+    <string name="number_of_pax">Number of Pax:</string>
+    <string name="messagedisplay">MessageDisplay</string>
+    <string-array name="ticket_array">
+        <item>One-Day ticket [$24]</item>
+        <item>Express One-Day ticket [$34]</item>
+    </string-array>
+</resources>
